@@ -861,6 +861,10 @@
                   "background": "@cardColor"
                 }
               }
+            },
+            "H2": {
+              "text-align": "center",
+              "color": "#5b686b"
             }
           },
           "_name": "team1",
