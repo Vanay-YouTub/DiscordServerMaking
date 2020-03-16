@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Discord Sever Making",
-    "currentPage": "page1.html",
+    "currentPage": "Отзывы.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -442,7 +442,7 @@
         }
       ]
     },
-    "page1.html": {
+    "Отзывы.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Отзывы",
