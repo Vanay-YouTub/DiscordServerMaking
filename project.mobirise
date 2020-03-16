@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Discord Sever Making",
-    "currentPage": "index.html",
+    "currentPage": "Отзывы.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -131,13 +131,13 @@
               }
             },
             ".user_text": {
-              "color": "#ffffff"
+              "color": "#149dcc"
             },
             ".user_name": {
-              "color": "#ffffff"
+              "color": "#149dcc"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#149dcc"
             }
           },
           "_name": "testimonials-slider1",
