@@ -758,6 +758,44 @@ section.lazy-placeholder:after {
 .cid-rTGjubgY4A .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-rTRYmpRDrd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-rTRYmpRDrd p {
+  color: #767676;
+}
+.cid-rTRYmpRDrd .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rTRYmpRDrd .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rTRYmpRDrd .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-rTRYmpRDrd .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rTRYmpRDrd .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-rTRYmpRDrd .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
 .cid-rTjMysYLkg {
   padding-top: 90px;
   padding-bottom: 90px;
